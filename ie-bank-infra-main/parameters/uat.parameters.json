@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "environmentType": {
+            "value": "prod"
+        },
+        "postgreSQLServerName": {
+            "value": "rmazari-dbsrv-uat"
+        },
+        "postgreSQLDatabaseName": {
+            "value": "rmazari-db-uat"
+        },
+        "appServicePlanName": {
+            "value": "rmazari-asp-uat"
+        },
+        "appServiceAPIAppName": {
+            "value": "rmazari-be-uat"
+        },
+        "appServiceAppName": {
+            "value": "rmazari-fe-uat"
+        },
+        "azureMonitorName": {
+            "value": "rmazari-am-uat"
+        },
+        "appInsightsName": {
+            "value": "rmazari-ai-uat"
+        },
+        "location": {
+            "value": "Korea Central"
+        }
+    }
+}
