@@ -49,6 +49,7 @@
                     account.status
                   }}</span>
                 </td>
+                <td>{{ account.country }}</td>
                 <td>
                   <div class="btn-group" role="group">
                     <button
