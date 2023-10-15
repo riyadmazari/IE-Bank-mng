@@ -6,19 +6,19 @@
             "value": "nonprod"
         },
         "postgreSQLServerName": {
-            "value": "aguadamillas-dbsrv-dev"
+            "value": "rmazari-dbsrv-dev"
         },
         "postgreSQLDatabaseName": {
-            "value": "aguadamillas-db-dev"
+            "value": "rmazari-db-dev"
         },
         "appServicePlanName": {
-            "value": "aguadamillas-asp-dev"
+            "value": "rmazari-asp-dev"
         },
         "appServiceAPIAppName": {
-            "value": "aguadamillas-be-dev"
+            "value": "rmazari-be-dev"
         },
         "appServiceAppName": {
-            "value": "aguadamillas-fe-dev"
+            "value": "rmazari-fe-dev"
         },
         "location": {
             "value": "North Europe"
